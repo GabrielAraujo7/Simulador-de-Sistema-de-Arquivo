@@ -49,10 +49,15 @@ Esta classe implementa o simulador, com métodos correspondentes aos comandos su
 Comandos implementados:
 
 copy <origem> <destino>: Copia um arquivo de um local para outro.
+
 rm <arquivo>: Remove um arquivo.
+
 mkdir <diretório>: Cria um novo diretório.
+
 rmdir <diretório>: Remove um diretório e seus conteúdos.
+
 rename <antigo> <novo>: Renomeia um arquivo ou diretório.
+
 ls <diretório>: Lista o conteúdo de um diretório.
 
 Classes File e Directory:
